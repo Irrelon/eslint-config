@@ -1,12 +1,12 @@
 {
   "name": "eslint-config-irrelon",
   "version": "1.0.0",
-  "description": "",
+  "description": "Irrelon Software standard ESLint rules. Includes React rules and assumes Node.js style coding (no access to window or document, no browser environment).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Irrelon Software Limited",
   "license": "ISC"
 }
