@@ -17,6 +17,7 @@ module.exports = {
 		}],
 		"quote-props": 1,
 		"comma-dangle": [2,"never"],
+		"no-debugger": 0,
 		"no-dupe-args": 2,
 		"no-dupe-keys": 2,
 		"no-duplicate-case": 2,
