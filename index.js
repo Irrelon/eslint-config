@@ -45,7 +45,8 @@ module.exports = {
 		"react/display-name": 0,
 		"react/prop-types": 1,
 		"react/default-props-match-prop-types": 1,
-		"react/no-access-state-in-setstate": 1
+		"react/no-access-state-in-setstate": 1,
+		"react/destructuring-assignment": 1
 	},
 	"parserOptions": {
 		"sourceType": "module",
