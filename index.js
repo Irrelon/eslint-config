@@ -53,8 +53,8 @@ module.exports = {
 				"object": true
 			},
 			"AssignmentExpression": {
-				"array": true,
-				"object": true
+				"array": false,
+				"object": false
 			}
 		}, {
 			"enforceForRenamedProperties": false

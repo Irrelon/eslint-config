@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-irrelon",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Irrelon Software standard ESLint rules. Includes React rules and assumes Node.js style coding (no access to window or document, no browser environment).",
   "main": "index.js",
   "scripts": {
