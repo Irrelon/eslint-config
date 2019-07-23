@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-irrelon",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Irrelon Software standard ESLint rules. Includes React rules and assumes Node.js style coding (no access to window or document, no browser environment).",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,6 @@
   "author": "Irrelon Software Limited",
   "license": "ISC",
   "dependencies": {
-    "eslint-plugin-react": "^7.12.4",
-    "babel-eslint": "^8.2.3"
+    "eslint-plugin-react": "^7.12.4"
   }
 }
