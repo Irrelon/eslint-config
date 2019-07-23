@@ -46,7 +46,19 @@ module.exports = {
 		"react/prop-types": 1,
 		"react/default-props-match-prop-types": 1,
 		"react/no-access-state-in-setstate": 1,
-		"react/destructuring-assignment": 1
+		"react/destructuring-assignment": 1,
+		"prefer-destructuring": ["error", {
+			"VariableDeclarator": {
+				"array": true,
+				"object": true
+			},
+			"AssignmentExpression": {
+				"array": true,
+				"object": true
+			}
+		}, {
+			"enforceForRenamedProperties": false
+		}]
 	},
 	"parserOptions": {
 		"sourceType": "module",
