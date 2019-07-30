@@ -28,6 +28,8 @@ module.exports = {
 		"no-console": 0,
 		"no-mixed-spaces-and-tabs": 1,
 		"no-useless-escape": 1,
+		"no-redeclare": 1,
+		"no-shadow": 1,
 		"valid-jsdoc": 1,
 		"valid-typeof": 2,
 		"eqeqeq": [2,"smart"],
