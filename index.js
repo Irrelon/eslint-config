@@ -51,7 +51,7 @@ module.exports = {
 		"react/destructuring-assignment": 1,
 		"prefer-destructuring": ["error", {
 			"VariableDeclarator": {
-				"array": true,
+				"array": false,
 				"object": true
 			},
 			"AssignmentExpression": {
