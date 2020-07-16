@@ -75,7 +75,7 @@ module.exports = {
 		"react"
 	],
 	"env" : {
-		"browser" : false,
+		"browser" : true,
 		"node" : true,
 		"es6" : true,
 		"mocha": true
